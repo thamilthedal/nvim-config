@@ -17,4 +17,5 @@ require("vim-options")
 
 --Call Plugin Setups
 require("lazy").setup("plugins")
+require("keymaps").setup("plugins")
 
